@@ -13,5 +13,6 @@ xlf 差分ツール
 
 ## Requires
 - Windows
+- pyinstaller で xlf2html-saxon.pl を exe にする
 - Saxon (「**D:\\tool\\saxonb9-1-0-8j\\saxon9.jar**」を参照できること)
 - 本ツールと同じ場所に **xliff_diff.xlsx** があること
