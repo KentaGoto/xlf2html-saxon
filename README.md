@@ -16,3 +16,9 @@ xlf 差分ツール
 - pyinstaller で xlf2html-saxon.py を exe にする
 - Saxon (「**D:\\tool\\saxonb9-1-0-8j\\saxon9.jar**」を参照できること)
 - 本ツールと同じ場所に **xliff_diff.xlsx** があること
+
+# Author
+Kenta Goto
+
+# License
+MIT
