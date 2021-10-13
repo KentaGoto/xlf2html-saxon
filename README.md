@@ -17,8 +17,8 @@ xlf 差分ツール
 - Saxon (「**D:\\tool\\saxonb9-1-0-8j\\saxon9.jar**」を参照できること)
 - 本ツールと同じ場所に **xliff_diff.xlsx** があること
 
-# Author
-Kenta Goto
-
-# License
+## License
 MIT
+
+## Author
+Kenta Goto
